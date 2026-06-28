@@ -9,18 +9,13 @@ Designed for startups, software teams and platform engineers who want a reproduc
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
-
 
 ![Tekton](https://img.shields.io/badge/Tekton-%23000000.svg?logo=tekton&logoColor=white)
 
-
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?logo=argo&logoColor=white)
 
-
 ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?logo=helm&logoColor=white)
-
 
 ![GitOps](https://img.shields.io/badge/GitOps-%23000000.svg?logo=git&logoColor=white)
 
@@ -67,4 +62,6 @@ This often leads to:
 
 GitOps Garage was created to provide a clean, reproducible and Kubernetes-native deployment workflow.
 
+## Architecture
 
+![Architecture](screenshots/architecture.svg)
