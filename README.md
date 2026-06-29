@@ -87,31 +87,53 @@ Runs the application inside Kubernetes using declarative manifests managed throu
 ## Features
 
 Kubernetes-native deployment platform
+
 GitOps-driven application delivery
+
 Automated CI pipelines powered by Tekton
+
 Continuous deployment with Argo CD
+
 Helm-based application packaging
+
 Multi-environment deployment strategy
+
 Infrastructure and application versioning through Git
+
 Reusable project templates
+
 Production-oriented repository structure
+
 Designed for startups and growing software teams
+
 Open Source foundation with extensible architecture
 
 ## Repository Structure
 
-gitops-platform/
+### gitops-platform/
+
 ├── bootstrap/
+
 ├── diagrams/
+
 ├── docs/
+
 ├── examples/
+
 ├── platform/
+
 ├── scripts/
+
 ├── screenshots/
+
 ├── CHANGELOG.md
+
 ├── CONTRIBUTING.md
+
 ├── LICENSE
+
 ├── README.md
+
 └── ROADMAP.md
 
 ## Technology Stack
