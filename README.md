@@ -112,29 +112,29 @@ Open Source foundation with extensible architecture
 
 ### gitops-platform/
 
-├─ bootstrap/
+|- bootstrap/
 
-├─ diagrams/
+|- diagrams/
 
-├─ docs/
+|- docs/
 
-├─ examples/
+|- examples/
 
-├─ platform/
+|- platform/
 
-├─ scripts/
+|- scripts/
 
-├─ screenshots/
+|- screenshots/
 
-├─ CHANGELOG.md
+|- CHANGELOG.md
 
-├─ CONTRIBUTING.md
+|- CONTRIBUTING.md
 
-├─ LICENSE
+|- LICENSE
 
-├─ README.md
+|- README.md
 
-└─ ROADMAP.md
+|- ROADMAP.md
 
 ## Technology Stack
 
