@@ -64,4 +64,20 @@ GitOps Garage was created to provide a clean, reproducible and Kubernetes-native
 
 ## Architecture
 
-![Architecture](screenshots/architecture.svg)
+![Architecture](diagrams/architecture.svg)
+
+Source Control Layer
+
+Responsible for storing the application source code and triggering CI pipelines through Git webhooks.
+
+CI Pipeline Layer
+
+Automates application build, testing, container image creation and GitOps repository updates using Tekton.
+
+GitOps Control Layer
+
+Argo CD continuously monitors the GitOps repository and synchronizes the Kubernetes cluster with the desired state.
+
+Runtime Layer
+
+Runs the application inside Kubernetes using declarative manifests managed through Helm.
